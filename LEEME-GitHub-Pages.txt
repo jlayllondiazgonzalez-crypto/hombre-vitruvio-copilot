@@ -1,0 +1,16 @@
+PUBLICACION EN GITHUB PAGES
+===========================
+
+Usuario: jlayllondiazgonzalez-crypto
+Repositorio previsto: hombre-vitruvio-copilot
+Direccion prevista:
+https://jlayllondiazgonzalez-crypto.github.io/hombre-vitruvio-copilot/
+
+PASOS
+1. Crea un repositorio PUBLICO llamado exactamente: hombre-vitruvio-copilot
+2. Sube el contenido de este ZIP al nivel principal del repositorio.
+3. IMPORTANTE: cambia el nombre index-github.html a index.html al subirlo, o usa directamente el index.html incluido en este ZIP.
+4. En Settings > Pages selecciona Deploy from a branch, rama main y carpeta /(root).
+5. Guarda y espera a que GitHub muestre la direccion publicada.
+
+El index.html incluido ya contiene la direccion publica prevista. Si cambias el nombre del repositorio, habra que actualizar esas direcciones.
