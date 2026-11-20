@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://jlayllondiazgonzalez-crypto.github.io/hombre-vitruvio-copilot/</loc>
+    <image:image>
+      <image:loc>https://jlayllondiazgonzalez-crypto.github.io/hombre-vitruvio-copilot/hombre-de-vitruvio-copilot-robot.png</image:loc>
+      <image:title>El Hombre de Vitruvio y Copilot</image:title>
+      <image:caption>Robot humanoide contemplando una esfera que integra al Hombre de Vitruvio con el símbolo de Copilot.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://jlayllondiazgonzalez-crypto.github.io/hombre-vitruvio-copilot/robot-copilot-contempla-hombre-vitruvio.png</image:loc>
+      <image:title>El encuentro visto desde fuera</image:title>
+      <image:caption>Robot humanoide ante una esfera con el Hombre de Vitruvio integrado en el símbolo de Copilot.</image:caption>
+    </image:image>
+  </url>
+</urlset>

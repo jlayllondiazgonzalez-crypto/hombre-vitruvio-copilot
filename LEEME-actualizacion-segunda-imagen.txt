@@ -1,0 +1,14 @@
+ACTUALIZACION DEL SITIO
+======================
+
+Sube estos archivos a la raiz del repositorio y confirma la sustitucion de index.html:
+- index.html
+- robot-copilot-contempla-hombre-vitruvio.png
+- sitemap.xml
+
+Conserva tambien los archivos que ya existen:
+- hombre-de-vitruvio-copilot-robot.png
+- BingSiteAuth.xml
+
+Despues del despliegue, envia en Bing Webmaster Tools > Sitemaps:
+https://jlayllondiazgonzalez-crypto.github.io/hombre-vitruvio-copilot/sitemap.xml

@@ -25,14 +25,28 @@
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "ImageObject",
+    "@type": "ItemList",
     "name": "El Hombre de Vitruvio y Copilot",
-    "caption": "Robot humanoide contemplando una esfera que integra al Hombre de Vitruvio con el símbolo de Copilot.",
-    "description": "Imagen conceptual generada con IA sobre la relación entre humanidad, inteligencia artificial y medida humana.",
-    "contentUrl": "https://jlayllondiazgonzalez-crypto.github.io/hombre-vitruvio-copilot/hombre-de-vitruvio-copilot-robot.png",
-    "thumbnailUrl": "https://jlayllondiazgonzalez-crypto.github.io/hombre-vitruvio-copilot/hombre-de-vitruvio-copilot-robot.png",
-    "encodingFormat": "image/png",
-    "inLanguage": "es"
+    "itemListElement": [
+      {
+        "@type": "ImageObject",
+        "position": 1,
+        "name": "El Hombre de Vitruvio y Copilot: perspectiva del robot",
+        "caption": "Robot humanoide contemplando una esfera que integra al Hombre de Vitruvio con el símbolo de Copilot.",
+        "contentUrl": "https://jlayllondiazgonzalez-crypto.github.io/hombre-vitruvio-copilot/hombre-de-vitruvio-copilot-robot.png",
+        "encodingFormat": "image/png",
+        "inLanguage": "es"
+      },
+      {
+        "@type": "ImageObject",
+        "position": 2,
+        "name": "El encuentro visto desde fuera",
+        "caption": "Robot humanoide ante una esfera con el Hombre de Vitruvio integrado en el símbolo de Copilot.",
+        "contentUrl": "https://jlayllondiazgonzalez-crypto.github.io/hombre-vitruvio-copilot/robot-copilot-contempla-hombre-vitruvio.png",
+        "encodingFormat": "image/png",
+        "inLanguage": "es"
+      }
+    ]
   }
   </script>
 
@@ -98,6 +112,11 @@
     }
     .tags { display: flex; flex-wrap: wrap; gap: 9px; margin-top: 16px; }
     .tag { border: 1px solid rgba(85,168,255,.32); color: #cce6ff; border-radius: 999px; padding: 6px 11px; font-size: .85rem; }
+
+    .scene-two { margin-top: 30px; }
+    .scene-two h2 { margin: 0 0 .65rem; font-size: clamp(1.55rem, 3vw, 2.2rem); }
+    .scene-two > p { margin: 0 0 18px; max-width: 850px; color: var(--muted); }
+    .scene-two figure { margin-top: 18px; }
     footer { margin-top: 34px; color: #9f988e; font-size: .87rem; }
     @media (max-width: 780px) {
       main { padding-top: 34px; }
@@ -143,6 +162,18 @@
         </div>
       </aside>
     </article>
+
+
+    <section class="scene-two" aria-labelledby="encuentro-visto-desde-fuera">
+      <h2 id="encuentro-visto-desde-fuera">El encuentro visto desde fuera</h2>
+      <p>En la primera imagen, el visitante observa desde la perspectiva de la inteligencia artificial. En esta segunda escena, el encuentro se contempla desde fuera: la máquina rodea sin tocar aquello que intenta comprender. La figura humana permanece integrada en el símbolo tecnológico, no como contenido subordinado, sino como referencia de su diseño.</p>
+      <figure>
+        <img src="robot-copilot-contempla-hombre-vitruvio.png"
+             alt="Robot humanoide ante una esfera transparente que contiene una integración luminosa del símbolo de Copilot y el Hombre de Vitruvio, con una ciudad al atardecer al fondo."
+             width="1536" height="1024" loading="lazy">
+        <figcaption>Una segunda perspectiva del diálogo visual entre la anatomía humana, la inteligencia artificial y una tecnología diseñada alrededor de la persona.</figcaption>
+      </figure>
+    </section>
 
     <footer>
       Publicación independiente. La imagen es una creación conceptual generada con IA y no una obra original de Leonardo da Vinci ni una imagen oficial de Microsoft.
