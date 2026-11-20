@@ -1,0 +1,8 @@
+ACTIVAR COMENTARIOS GISCUS
+=========================
+
+Sube index.html a la raiz del repositorio y confirma la sustitucion.
+Espera a que GitHub Pages complete el despliegue.
+La seccion Comentarios y reflexiones aparecera al final de la pagina.
+Los visitantes necesitaran una cuenta de GitHub para comentar mediante giscus.
+No elimines la etiqueta de verificacion de Bing.
