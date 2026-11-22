@@ -1,0 +1,11 @@
+INVERTIR EL ORDEN DE LAS IMAGENES
+=================================
+
+1. Sube index.html a la raiz del repositorio.
+2. Confirma la sustitucion del index.html existente.
+3. Espera al nuevo despliegue de GitHub Pages.
+4. Actualiza la web con Ctrl+F5.
+
+La imagen robot-copilot-contempla-hombre-vitruvio.png queda como portada.
+La imagen hombre-de-vitruvio-copilot-robot.png pasa a la seccion "Desde la mirada de la maquina".
+Se conservan la verificacion de Bing, los comentarios giscus y los metadatos.
